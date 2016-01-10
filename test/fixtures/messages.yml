@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyText
+  recip_name: MyString
+  recip_number: MyString
+  sent_count: 1
+  sent: false
+  sent_at: 2016-01-10 00:06:15
+  sent_by_name: MyString
+  sent_by_number: MyString
+  priority: 1
+
+two:
+  content: MyText
+  recip_name: MyString
+  recip_number: MyString
+  sent_count: 1
+  sent: false
+  sent_at: 2016-01-10 00:06:15
+  sent_by_name: MyString
+  sent_by_number: MyString
+  priority: 1
