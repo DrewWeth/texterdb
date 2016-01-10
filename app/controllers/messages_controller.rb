@@ -11,6 +11,7 @@ class MessagesController < ApplicationController
       message.sent_at = Time.now
       message.save
     end
+
     render :json => message
   end
 
